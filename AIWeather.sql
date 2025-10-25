@@ -118,3 +118,9 @@ SELECT
 
 FROM tmp_weather tw
 WHERE tw.date_txt IS NOT NULL;
+
+
+
+# average high (testing correct answers for ai testing)
+# SELECT stationID FROM Station WHERE stationName = 'REDWOOD CITY, CA US';
+SELECT AVG(dailyHigh) FROM Readings WHERE stationID = 'USC00043714'
