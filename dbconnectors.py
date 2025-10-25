@@ -85,7 +85,7 @@ def close_connection():
 
 
 # This block only runs when you execute `python dbconnectors.py`
-# It will NOT run when this file is imported by aiInteract.py
+# It will NOT run when this file is imported by DatabaseChatbot.py
 if __name__ == "__main__":
     print("--- Running dbconnectors.py as standalone script for testing ---")
 
