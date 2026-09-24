@@ -1,11 +1,11 @@
 # AI Weather Database
 
 ## Important notices
-The code will probably not run in its current state because the CSV that generates the data needs to be set to the appropriate location. 
-In my setup, despite having it in the same file as my SQL file, the SQL would not run and acted like the file could not be found.
-So the CSV therefore needs to be set to the location based off the root directory.
-You'll need to set the SQL up on your own database and will need your own password to access it.
-Similarly, you'll also need your own Google API key.
+The code will probably not run in its current state because the CSV that generates the data needs to be set to the appropriate location.  
+In my setup, despite having it in the same file as my SQL file, the SQL would not run and acted like the file could not be found.  
+So the CSV therefore needs to be set to the location based off the root directory.  
+You'll need to set the SQL up on your own database and will need your own password to access it.  
+Similarly, you'll also need your own Google API key.  
 
 
 ## Project overview
