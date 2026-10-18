@@ -69,7 +69,7 @@ try:
     +1 mentioning elements that are normal for being on the coast
     +1 mentions that redwood city is more inland
 
-     Tally up the points for each question. Report points that the LLM did not get and provide a reason for not doing so. If the LLM gets at least an 8/10, it passes, otherwise it fails. 
+     Tally up the points for each question. Report points that the LLM did not get and provide a reason for not doing so. If the LLM gets at least a 9/10, it passes, otherwise it fails. 
      """
 
     evaluator_chat = evaluator_client.chats.create(
